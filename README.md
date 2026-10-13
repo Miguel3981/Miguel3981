@@ -1,4 +1,4 @@
-# Olá, eu sou o Miguel Cardoso de Jesus! 👋
+# Olá, eu sou o Miguel Cardoso de Jesus ! 👋
 
 Atualmente estou cursando **Ciência da Computação na UNIP (Campus Marquês de São Vicente)** e focando no desenvolvimento das minhas habilidades técnicas para ingressar no mercado de trabalho.
 
